@@ -1,5 +1,5 @@
 import InputField from "./components/InputField";
-import "./app.css";
+import "./App.css";
 import Result from "./components/Result";
 import { useState } from "react";
 
